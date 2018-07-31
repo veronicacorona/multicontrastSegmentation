@@ -12,7 +12,7 @@
  Date: 2018-07-12
 
  This code is implemented in MATLAB to perform multi-contrast segmentation as 
- described in the preprint of the article at http://arxiv.org/.
+ described in the preprint of the article at https://arxiv.org/abs/1807.10757.
  If you use this code in your research, please cite this work. 
 
 
